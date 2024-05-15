@@ -1,0 +1,6 @@
+numpy
+tensorflow==2.7.0
+opencv-python
+notebook
+scikit-learn==1.4.1.post1
+tqdm
